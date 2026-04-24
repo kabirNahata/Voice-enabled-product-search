@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\services\\voicesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\services\\voicesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\speechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|solutionrelative:speechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\speechapi\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|solutionrelative:speechapi\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\productsearchfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\productsearchfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\speechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|solutionrelative:speechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\infrastructure\\repositories\\transcriptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\transcriptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\services\\transcriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\services\\transcriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\infrastructure\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE62C2-0DC9-4129-B846-0484867E260D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\mappers\\transcriptmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\mappers\\transcriptmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\mappers\\sessionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\mappers\\sessionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\itranscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\itranscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\itranscriptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\itranscriptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\entities\\transcript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\transcript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118709E7-3546-442C-9A62-09D7336AA104}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\speechapi\\endpoints\\transcriptendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|solutionrelative:speechapi\\endpoints\\transcriptendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\speechapi\\endpoints\\sessionendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FC4A51-08E7-8D50-9D40-8B07D24F0315}|SpeechApi\\SpeechApi.csproj|solutionrelative:speechapi\\endpoints\\sessionendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\common\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\common\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\dtos\\transcriptdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\dtos\\transcriptdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|c:\\users\\dell\\desktop\\speech-api-app\\backend\\speechapi\\application\\dtos\\sessiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02ED846-C970-4BC5-9B8E-9B1776E4183B}|Application\\Application.csproj|solutionrelative:application\\dtos\\sessiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:622189359:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoiceSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\VoiceSearchService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\VoiceSearchService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\VoiceSearchService.cs",
+              "RelativeToolTip": "Application\\Services\\VoiceSearchService.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAwwBIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:51:36.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Mappers\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\ProductMapper.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Mappers\\ProductMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\ProductMapper.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA1wEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:51:04.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DTOs\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DTOs\\ProductDtos.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProductDtos.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:50:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:50:18.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductSearchFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ProductSearchFilter.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ProductSearchFilter.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ProductSearchFilter.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ProductSearchFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:49:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:49:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:48:01.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:47:30.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Common\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Common\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Common\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:44:44.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TranscriptMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Mappers\\TranscriptMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\TranscriptMapper.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Mappers\\TranscriptMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\TranscriptMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:43:56.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SessionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Mappers\\SessionMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\SessionMapper.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Mappers\\SessionMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\SessionMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:43:32.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TranscriptDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DTOs\\TranscriptDtos.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TranscriptDtos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DTOs\\TranscriptDtos.cs",
+              "RelativeToolTip": "Application\\DTOs\\TranscriptDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:41:22.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SessionDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DTOs\\SessionDtos.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\SessionDtos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\DTOs\\SessionDtos.cs",
+              "RelativeToolTip": "Application\\DTOs\\SessionDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:40:56.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITranscriptService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ITranscriptService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITranscriptService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ITranscriptService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITranscriptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:39:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ISessionService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ISessionService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:39:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITranscriptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ITranscriptRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITranscriptRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ITranscriptRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITranscriptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:38:52.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISessionRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Interfaces\\ISessionRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:38:32.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "SpeechApi\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "SpeechApi\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:31:34.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:31:04.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TranscriptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Repositories\\TranscriptRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TranscriptRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Repositories\\TranscriptRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TranscriptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:30:55.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Repositories\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Repositories\\SessionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:30:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:29:41.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:28:23.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TranscriptService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\TranscriptService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TranscriptService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\TranscriptService.cs",
+              "RelativeToolTip": "Application\\Services\\TranscriptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:28:11.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SessionService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Application\\Services\\SessionService.cs",
+              "RelativeToolTip": "Application\\Services\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:28:02.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:26:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Transcript.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Entities\\Transcript.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transcript.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Entities\\Transcript.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transcript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:26:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\Domain\\Entities\\Session.cs",
+              "RelativeToolTip": "Domain\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:25:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Program.cs",
+              "RelativeDocumentMoniker": "SpeechApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Program.cs",
+              "RelativeToolTip": "SpeechApi\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:39:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TranscriptEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Endpoints\\TranscriptEndpoints.cs",
+              "RelativeDocumentMoniker": "SpeechApi\\Endpoints\\TranscriptEndpoints.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Endpoints\\TranscriptEndpoints.cs",
+              "RelativeToolTip": "SpeechApi\\Endpoints\\TranscriptEndpoints.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:38:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SessionEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Endpoints\\SessionEndpoints.cs",
+              "RelativeDocumentMoniker": "SpeechApi\\Endpoints\\SessionEndpoints.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\Endpoints\\SessionEndpoints.cs",
+              "RelativeToolTip": "SpeechApi\\Endpoints\\SessionEndpoints.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:38:30.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SpeechApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\speech-api-app\\Backend\\SpeechApi\\SpeechApi\\appsettings.json",
+              "RelativeToolTip": "SpeechApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T11:37:25.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

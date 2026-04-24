@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="b02ed846-c970-4bc5-9b8e-9b1776e4183b" />
+  <Project Path="Domain/Domain.csproj" Id="118709e7-3546-442c-9a62-09d7336aa104" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="c3be62c2-0dc9-4129-b846-0484867e260d" />
+  <Project Path="SpeechApi/SpeechApi.csproj" />
+</Solution>
