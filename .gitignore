@@ -1,24 +1,45 @@
-# Nestjs specific
-/dist
-/node_modules
-/build
-/tmp
+# --- OS / IDE Specific ---
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
 
-# Logs
-logs
-*.log
-npm-debug.log*
-pnpm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-lerna-debug.log*
+# --- Node.js / Next.js (Frontend) ---
+**/node_modules/
+**/dist/
+**/.next/
+**/out/
+**/build/
+**.next
+**.pnpm-debug.log*
 
-# dotenv environment variable files
-.env
+# --- .NET (Backend) ---
+# Ignore build artifacts
+[Dd]ebug/
+[Rr]elease/
+**/bin/
+**/obj/
+
+# --- Environment & Secrets (CRITICAL) ---
+# Frontend Secrets
+.env*.local
 .env.development
 .env.test
 .env.production
 
-# temp directory
-.temp
-.tmp
+# Backend Secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/secrets.json
+
+# --- Logs & Temp ---
+*.log
+logs
+*.tmp
+.temp/
+.tmp/
